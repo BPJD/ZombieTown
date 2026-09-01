@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MoveDestination
+  - Building
+  - BuildingEntry
+  - PlayerExit
+  - Transparent
+  - Enemy
+  - Dead
+  - PlayerBuilding
+  - FxTemporaire
+  - Spawner
+  - Sun
+  - UI_Res
+  - EnemyBoss
+  - Clock
+  - SoundPlayer
+  - Terrain
+  - PlayerSystem
+  - ProjectileHit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Building
+  - DPad
+  - Units
+  - Projectile
+  - Terrain
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
